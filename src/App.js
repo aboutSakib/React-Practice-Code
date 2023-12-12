@@ -1,11 +1,10 @@
 import React from "react";
-import State from "./state";
-
+import Index from "./Conditional/Index";
 
 function App() {
   return (
     <div>
-      <State/>
+      <Index />
     </div>
   );
 }
