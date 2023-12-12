@@ -1,10 +1,10 @@
 import React from "react";
-import IndexHandeler from "./EVENT_HANDLER_CLASS/Index";
+import EVENT_BINDING from "./EVENT_BINDING";
 
 function App() {
   return (
     <div>
-      <IndexHandeler />
+      <EVENT_BINDING />
     </div>
   );
 }
