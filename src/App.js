@@ -1,10 +1,10 @@
 import React from "react";
-import Index from "./Conditional/Index";
+import IndexHandeler from "./EVENT_HANDLER_CLASS/Index";
 
 function App() {
   return (
     <div>
-      <Index />
+      <IndexHandeler />
     </div>
   );
 }
