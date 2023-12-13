@@ -1,10 +1,10 @@
 import React from "react";
-import EVENT_BINDING from "./EVENT_BINDING";
+import FORM from "./components/FORM/FORM";
 
 function App() {
   return (
     <div>
-      <EVENT_BINDING />
+      <FORM />
     </div>
   );
 }

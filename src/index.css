@@ -17,7 +17,7 @@
   border: none;
   border-radius: 5px;
   background: green;
-  color: white;
+  color: rgb(66, 11, 11);
   font-weight: bold;
 
   margin-left: 20px;
@@ -26,4 +26,7 @@
 h1 {
   color: white;
   font-size: 49px;
+}
+.parent {
+  background: red;
 }
